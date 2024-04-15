@@ -1,0 +1,15 @@
+21:17:46 **** Incremental Build of configuration Debug for project SucheNachEinerTeilzeichenkette ****
+make all 
+Building file: ../SucheNachEinerTeilzeichenkette.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"SucheNachEinerTeilzeichenkette.d" -MT"SucheNachEinerTeilzeichenkette.o" -o "SucheNachEinerTeilzeichenkette.o" "../SucheNachEinerTeilzeichenkette.c"
+Finished building: ../SucheNachEinerTeilzeichenkette.c
+ 
+Building target: SucheNachEinerTeilzeichenkette.exe
+Invoking: Cygwin C Linker
+gcc  -o "SucheNachEinerTeilzeichenkette.exe" ./SucheNachEinerTeilzeichenkette.o   
+Finished building target: SucheNachEinerTeilzeichenkette.exe
+ 
+
+21:17:47 Build Finished. 0 errors, 0 warnings. (took 686ms)
+

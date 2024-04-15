@@ -1,0 +1,19 @@
+11:55:45 **** Incremental Build of configuration Debug for project GlaettenVonMessfehlern ****
+make all 
+Building file: ../GlaettenVonMessfehlern.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"GlaettenVonMessfehlern.d" -MT"GlaettenVonMessfehlern.o" -o "GlaettenVonMessfehlern.o" "../GlaettenVonMessfehlern.c"
+../GlaettenVonMessfehlern.c: In function 'main':
+../GlaettenVonMessfehlern.c:27:13: warning: unused variable 'hgth' [-Wunused-variable]
+   27 |         int hgth[LEN] = {400,410,430,430,430,420,450,460,480,490,520,560,610,670,790};
+      |             ^~~~
+Finished building: ../GlaettenVonMessfehlern.c
+ 
+Building target: GlaettenVonMessfehlern.exe
+Invoking: Cygwin C Linker
+gcc  -o "GlaettenVonMessfehlern.exe" ./GlaettenVonMessfehlern.o   
+Finished building target: GlaettenVonMessfehlern.exe
+ 
+
+11:55:46 Build Finished. 0 errors, 1 warnings. (took 508ms)
+

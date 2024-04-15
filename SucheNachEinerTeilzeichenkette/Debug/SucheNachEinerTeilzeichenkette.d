@@ -1,0 +1,1 @@
+SucheNachEinerTeilzeichenkette.o: ../SucheNachEinerTeilzeichenkette.c

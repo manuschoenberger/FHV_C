@@ -1,0 +1,1 @@
+Dreiecksmatrix.o: ../Dreiecksmatrix.c

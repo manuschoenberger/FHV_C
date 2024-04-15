@@ -1,0 +1,15 @@
+15:54:46 **** Incremental Build of configuration Debug for project SrcStringToDesString ****
+make all 
+Building file: ../SrcStringToDesString.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"SrcStringToDesString.d" -MT"SrcStringToDesString.o" -o "SrcStringToDesString.o" "../SrcStringToDesString.c"
+Finished building: ../SrcStringToDesString.c
+ 
+Building target: SrcStringToDesString.exe
+Invoking: Cygwin C Linker
+gcc  -o "SrcStringToDesString.exe" ./SrcStringToDesString.o   
+Finished building target: SrcStringToDesString.exe
+ 
+
+15:54:57 Build Finished. 0 errors, 0 warnings. (took 11s.464ms)
+

@@ -1,0 +1,18 @@
+17:04:57 **** Build of configuration Debug for project Littele Gauss ****
+make all 
+Building file: ../LittleGauss.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"LittleGauss.d" -MT"LittleGauss.o" -o "LittleGauss.o" "../LittleGauss.c"
+Finished building: ../LittleGauss.c
+ 
+Building target: Littele Gauss.exe
+Invoking: Cygwin C Linker
+gcc  -o "Littele Gauss.exe" ./LittleGauss.o   
+/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../x86_64-pc-cygwin/bin/ld: /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(libcmain.o): in function `main':
+/usr/src/debug/cygwin-3.3.6-1/winsup/cygwin/lib/libcmain.c:37: undefined reference to `WinMain'
+collect2: error: ld returned 1 exit status
+make: *** [makefile:43: Littele Gauss.exe] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+
+17:04:58 Build Failed. 3 errors, 0 warnings. (took 540ms)
+

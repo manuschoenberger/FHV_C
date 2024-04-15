@@ -1,0 +1,43 @@
+10:20:09 **** Build of configuration Debug for project AdventOfCodeFirstSecond ****
+make all 
+Building file: ../AdventOfCodeFirstSecond.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"AdventOfCodeFirstSecond.d" -MT"AdventOfCodeFirstSecond.o" -o "AdventOfCodeFirstSecond.o" "../AdventOfCodeFirstSecond.c"
+../AdventOfCodeFirstSecond.c:48:16: error: expected declaration specifiers or '...' before string constant
+   48 |         printf("%d,%d,%d", max1,max2,max3);
+      |                ^~~~~~~~~~
+../AdventOfCodeFirstSecond.c:48:28: error: unknown type name 'max1'
+   48 |         printf("%d,%d,%d", max1,max2,max3);
+      |                            ^~~~
+../AdventOfCodeFirstSecond.c:48:33: error: unknown type name 'max2'
+   48 |         printf("%d,%d,%d", max1,max2,max3);
+      |                                 ^~~~
+../AdventOfCodeFirstSecond.c:48:38: error: unknown type name 'max3'
+   48 |         printf("%d,%d,%d", max1,max2,max3);
+      |                                      ^~~~
+../AdventOfCodeFirstSecond.c:51:1: error: expected identifier or '(' before '}' token
+   51 | }
+      | ^
+../AdventOfCodeFirstSecond.c: In function 'main':
+../AdventOfCodeFirstSecond.c:89:42: error: 'max1' undeclared (first use in this function)
+   89 |     printf("\n\nMax Calories: %d,%d,%d", max1,max2,max3);
+      |                                          ^~~~
+../AdventOfCodeFirstSecond.c:89:42: note: each undeclared identifier is reported only once for each function it appears in
+../AdventOfCodeFirstSecond.c:89:47: error: 'max2' undeclared (first use in this function)
+   89 |     printf("\n\nMax Calories: %d,%d,%d", max1,max2,max3);
+      |                                               ^~~~
+../AdventOfCodeFirstSecond.c:89:52: error: 'max3' undeclared (first use in this function)
+   89 |     printf("\n\nMax Calories: %d,%d,%d", max1,max2,max3);
+      |                                                    ^~~~
+../AdventOfCodeFirstSecond.c:87:9: warning: unused variable 'maxCalories' [-Wunused-variable]
+   87 |     int maxCalories = calcMaxCalories(values, valuesLength);
+      |         ^~~~~~~~~~~
+../AdventOfCodeFirstSecond.c: In function 'calcMaxCalories':
+../AdventOfCodeFirstSecond.c:46:9: warning: control reaches end of non-void function [-Wreturn-type]
+   46 |         }
+      |         ^
+make: *** [subdir.mk:20: AdventOfCodeFirstSecond.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+
+10:20:10 Build Failed. 9 errors, 2 warnings. (took 853ms)
+

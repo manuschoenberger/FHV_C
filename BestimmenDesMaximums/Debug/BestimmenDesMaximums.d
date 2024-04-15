@@ -1,0 +1,1 @@
+BestimmenDesMaximums.o: ../BestimmenDesMaximums.c

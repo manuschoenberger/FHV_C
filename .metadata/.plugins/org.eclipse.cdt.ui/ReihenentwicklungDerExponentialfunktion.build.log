@@ -1,0 +1,6 @@
+19:56:48 **** Incremental Build of configuration Debug for project ReihenentwicklungDerExponentialfunktion ****
+make all 
+make: Nothing to be done for 'all'.
+
+19:56:48 Build Finished. 0 errors, 0 warnings. (took 87ms)
+

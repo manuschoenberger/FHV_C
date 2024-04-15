@@ -1,0 +1,15 @@
+13:21:31 **** Incremental Build of configuration Debug for project Primfaktorenzerlegung ****
+make all 
+Building file: ../Primfaktorenzerlegung.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"Primfaktorenzerlegung.d" -MT"Primfaktorenzerlegung.o" -o "Primfaktorenzerlegung.o" "../Primfaktorenzerlegung.c"
+Finished building: ../Primfaktorenzerlegung.c
+ 
+Building target: Primfaktorenzerlegung.exe
+Invoking: Cygwin C Linker
+gcc  -o "Primfaktorenzerlegung.exe" ./Primfaktorenzerlegung.o   
+Finished building target: Primfaktorenzerlegung.exe
+ 
+
+13:21:32 Build Finished. 0 errors, 0 warnings. (took 799ms)
+

@@ -1,0 +1,36 @@
+10:57:40 **** Incremental Build of configuration Debug for project Tokenizer ****
+make all 
+Building file: ../Tokenizer.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"Tokenizer.d" -MT"Tokenizer.o" -o "Tokenizer.o" "../Tokenizer.c"
+../Tokenizer.c: In function 'tokenizeIndices':
+../Tokenizer.c:72:5: warning: implicit declaration of function 'printf' [-Wimplicit-function-declaration]
+   72 |     printf("0");
+      |     ^~~~~~
+../Tokenizer.c:1:1: note: include '<stdio.h>' or provide a declaration of 'printf'
+  +++ |+#include <stdio.h>
+    1 | /*
+../Tokenizer.c:72:5: warning: incompatible implicit declaration of built-in function 'printf' [-Wbuiltin-declaration-mismatch]
+   72 |     printf("0");
+      |     ^~~~~~
+../Tokenizer.c:72:5: note: include '<stdio.h>' or provide a declaration of 'printf'
+../Tokenizer.c: In function 'tokenizeAddress':
+../Tokenizer.c:85:5: warning: incompatible implicit declaration of built-in function 'printf' [-Wbuiltin-declaration-mismatch]
+   85 |     printf("%p", pAddress);
+      |     ^~~~~~
+../Tokenizer.c:85:5: note: include '<stdio.h>' or provide a declaration of 'printf'
+../Tokenizer.c: In function 'main':
+../Tokenizer.c:100:5: warning: incompatible implicit declaration of built-in function 'printf' [-Wbuiltin-declaration-mismatch]
+  100 |     printf("%s\n\n",text);
+      |     ^~~~~~
+../Tokenizer.c:100:5: note: include '<stdio.h>' or provide a declaration of 'printf'
+Finished building: ../Tokenizer.c
+ 
+Building target: Tokenizer.exe
+Invoking: Cygwin C Linker
+gcc  -o "Tokenizer.exe" ./Tokenizer.o   
+Finished building target: Tokenizer.exe
+ 
+
+10:57:40 Build Finished. 0 errors, 4 warnings. (took 502ms)
+

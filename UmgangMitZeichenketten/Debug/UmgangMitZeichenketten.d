@@ -1,0 +1,1 @@
+UmgangMitZeichenketten.o: ../UmgangMitZeichenketten.c

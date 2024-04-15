@@ -1,0 +1,6 @@
+10:20:59 **** Build of configuration Debug for project ascii2int ****
+make all 
+make: Nothing to be done for 'all'.
+
+10:20:59 Build Finished. 0 errors, 0 warnings. (took 93ms)
+

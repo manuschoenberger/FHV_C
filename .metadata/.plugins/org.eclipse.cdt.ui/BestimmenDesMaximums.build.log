@@ -1,0 +1,6 @@
+11:42:49 **** Incremental Build of configuration Debug for project BestimmenDesMaximums ****
+make all 
+make: Nothing to be done for 'all'.
+
+11:42:49 Build Finished. 0 errors, 0 warnings. (took 81ms)
+

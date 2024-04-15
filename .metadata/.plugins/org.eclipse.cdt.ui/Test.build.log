@@ -1,0 +1,18 @@
+16:47:08 **** Incremental Build of configuration Debug for project Test ****
+make all 
+Building file: ../test.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"test.d" -MT"test.o" -o "test.o" "../test.c"
+Finished building: ../test.c
+ 
+Building target: Test.exe
+Invoking: Cygwin C Linker
+gcc  -o "Test.exe" ./test.o   
+/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../x86_64-pc-cygwin/bin/ld: /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(libcmain.o): in function `main':
+/usr/src/debug/cygwin-3.3.6-1/winsup/cygwin/lib/libcmain.c:37: undefined reference to `WinMain'
+collect2: error: ld returned 1 exit status
+make: *** [makefile:43: Test.exe] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+
+16:47:09 Build Failed. 3 errors, 0 warnings. (took 442ms)
+

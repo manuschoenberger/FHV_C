@@ -1,0 +1,1 @@
+SrcStringToDesString.o: ../SrcStringToDesString.c

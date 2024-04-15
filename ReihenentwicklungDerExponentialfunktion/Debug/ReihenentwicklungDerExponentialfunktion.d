@@ -1,0 +1,2 @@
+ReihenentwicklungDerExponentialfunktion.o: \
+ ../ReihenentwicklungDerExponentialfunktion.c

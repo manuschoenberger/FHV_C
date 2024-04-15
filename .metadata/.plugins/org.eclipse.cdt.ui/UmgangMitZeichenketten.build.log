@@ -1,0 +1,15 @@
+11:09:28 **** Incremental Build of configuration Debug for project UmgangMitZeichenketten ****
+make all 
+Building file: ../UmgangMitZeichenketten.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"UmgangMitZeichenketten.d" -MT"UmgangMitZeichenketten.o" -o "UmgangMitZeichenketten.o" "../UmgangMitZeichenketten.c"
+Finished building: ../UmgangMitZeichenketten.c
+ 
+Building target: UmgangMitZeichenketten.exe
+Invoking: Cygwin C Linker
+gcc  -o "UmgangMitZeichenketten.exe" ./UmgangMitZeichenketten.o   
+Finished building target: UmgangMitZeichenketten.exe
+ 
+
+11:09:28 Build Finished. 0 errors, 0 warnings. (took 501ms)
+

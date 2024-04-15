@@ -1,0 +1,1 @@
+DecToBin.o: ../DecToBin.c

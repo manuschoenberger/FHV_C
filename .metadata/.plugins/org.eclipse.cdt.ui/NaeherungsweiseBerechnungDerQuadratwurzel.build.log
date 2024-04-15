@@ -1,0 +1,15 @@
+15:33:32 **** Build of configuration Debug for project NaeherungsweiseBerechnungDerQuadratwurzel ****
+make all 
+Building file: ../NaeherungsweiseBerechnungDerQuadratwurzel.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"NaeherungsweiseBerechnungDerQuadratwurzel.d" -MT"NaeherungsweiseBerechnungDerQuadratwurzel.o" -o "NaeherungsweiseBerechnungDerQuadratwurzel.o" "../NaeherungsweiseBerechnungDerQuadratwurzel.c"
+Finished building: ../NaeherungsweiseBerechnungDerQuadratwurzel.c
+ 
+Building target: NaeherungsweiseBerechnungDerQuadratwurzel.exe
+Invoking: Cygwin C Linker
+gcc  -o "NaeherungsweiseBerechnungDerQuadratwurzel.exe" ./NaeherungsweiseBerechnungDerQuadratwurzel.o   
+Finished building target: NaeherungsweiseBerechnungDerQuadratwurzel.exe
+ 
+
+15:33:34 Build Finished. 0 errors, 0 warnings. (took 1s.305ms)
+

@@ -1,0 +1,1 @@
+Zinsrechnung.o: ../Zinsrechnung.c
