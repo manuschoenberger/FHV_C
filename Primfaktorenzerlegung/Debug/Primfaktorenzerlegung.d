@@ -1,0 +1,1 @@
+Primfaktorenzerlegung.o: ../Primfaktorenzerlegung.c

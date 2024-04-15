@@ -1,0 +1,1 @@
+Zeigermanipulation.o: ../Zeigermanipulation.c

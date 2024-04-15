@@ -1,0 +1,115 @@
+/*
+ * Umgang mit Zeichenketten.c
+ *
+ *  Created on: 22.01.2023
+ *      Author: Manuel Schönberger
+ */
+
+#include <stdio.h>
+#include <string.h>
+
+int strLen (char str[]) {
+	int i = 0;
+
+	for (; str[i] != '\0'; i += 1) {}
+
+	return i;
+}
+
+int strCmp (char str1[], char str2[]) {
+	int i = 0;
+	int num = 0;
+
+	while ((str1[i] == str2[i]) && (str1[i] != '\0')) {
+		i += 1;
+	}
+	if (str1[i] < str2[i]) {
+		num = -1;
+	} else if (str1[i] < str2[i]) {
+		num = +1;
+	}
+
+	return num;
+}
+
+void toUpperCase (char str[]) {
+	for(int i = 0; str[i] != '\0'; i += 1) {
+		if ((str[i] >= 'a') && (str[i] <= 'z')) {
+			str[i] -= ('a' - 'A');
+		}
+	}
+}
+
+void copy (char srcStr[], char destStr[]) {
+	int i = 0;
+
+	for (; srcStr[i] != '\0'; i += 1) {
+		destStr[i] = srcStr[i];
+	}
+
+	destStr[i] = '\0';
+}
+
+int subStr (char srcStr[], char destStr[], int startOffs, int endOffs) {
+	int lenSrc = strlen(srcStr);
+	int i = 0;
+	int start = startOffs - 1;
+	int end = endOffs - 1;
+
+	if ((startOffs > lenSrc) || (endOffs > lenSrc)) {
+		return -1;
+	}
+
+	for(; start != end; start += 1) {
+		destStr[i] = srcStr[start];
+		i += 1;
+	}
+
+	destStr[i] = '\0';
+
+	return 0;
+}
+
+int main (int argc, char * argv[]) {
+	char str[] = "ypsiLON";
+
+	// Länge eines Strings:
+	int len = strLen(str);
+	printf("Länge:\t\t'%s':  %d\n\n",str,len);
+
+	// Vergleich zweier Strings:
+	char str1[] = "Anton";
+	char str2[] = "Anton";
+	int cmp = strCmp(str1,str2);
+	if (cmp == 0) {
+		printf("Vergleich:\t'%s' == '%s'\n\n",str1,str2);
+	} else if (cmp == -1) {
+		printf("Vergleich:\t'%s' < '%s'\n\n",str1,str2);
+	} else if (cmp == 1) {
+		printf("Vergleich:\t'%s' > '%s'\n\n",str1,str2);
+	}
+
+	// String in Großbuchstaben:
+	toUpperCase(str);
+	printf("Großbuchstaben:\t'%s'\n\n",str);
+
+	// String kopieren:
+	char srcStr[] = "Moin, moin!";
+	char destStr[512];
+	copy(srcStr,destStr);
+	printf("Kopieren:\t'%s' -> '%s'\n\n",srcStr,destStr);
+
+	// String mit Offsets kopieren:
+	char srcStr1[] = "Livin' la vida loca";
+	char destStr1[512];
+	int startOffs = 1;
+	int endOffs = 15;
+	int sub = subStr(srcStr1,destStr1,startOffs,endOffs);
+	if (sub == 0) {
+		printf("Kopieren Offs.:\t'%s'\n\t\t%d to %d\n\t\t'%s'",srcStr1,startOffs,endOffs,destStr1);
+	} else {
+		printf("Kopieren:\tkopieren nicht möglich");
+	}
+
+	return 0;
+}

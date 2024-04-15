@@ -1,0 +1,15 @@
+10:41:37 **** Incremental Build of configuration Debug for project MinMaxMittel ****
+make all 
+Building file: ../MinMaxMittel.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"MinMaxMittel.d" -MT"MinMaxMittel.o" -o "MinMaxMittel.o" "../MinMaxMittel.c"
+Finished building: ../MinMaxMittel.c
+ 
+Building target: MinMaxMittel.exe
+Invoking: Cygwin C Linker
+gcc  -o "MinMaxMittel.exe" ./MinMaxMittel.o   
+Finished building target: MinMaxMittel.exe
+ 
+
+10:41:38 Build Finished. 0 errors, 0 warnings. (took 501ms)
+

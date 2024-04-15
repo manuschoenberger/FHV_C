@@ -1,0 +1,1 @@
+Summenbildung.o: ../Summenbildung.c

@@ -1,0 +1,1 @@
+AdventOfCodeFirst.o: ../AdventOfCodeFirst.c

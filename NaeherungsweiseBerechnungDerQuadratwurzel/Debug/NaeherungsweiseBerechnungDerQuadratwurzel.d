@@ -1,0 +1,2 @@
+NaeherungsweiseBerechnungDerQuadratwurzel.o: \
+ ../NaeherungsweiseBerechnungDerQuadratwurzel.c

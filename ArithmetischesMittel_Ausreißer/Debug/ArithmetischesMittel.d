@@ -1,0 +1,1 @@
+ArithmetischesMittel.o: ../ArithmetischesMittel.c

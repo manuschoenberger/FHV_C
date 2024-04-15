@@ -1,0 +1,1 @@
+Wortlaengenstatistik.o: ../Wortlaengenstatistik.c

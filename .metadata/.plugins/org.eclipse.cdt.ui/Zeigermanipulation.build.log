@@ -1,0 +1,15 @@
+19:53:16 **** Incremental Build of configuration Debug for project Zeigermanipulation ****
+make all 
+Building file: ../Zeigermanipulation.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"Zeigermanipulation.d" -MT"Zeigermanipulation.o" -o "Zeigermanipulation.o" "../Zeigermanipulation.c"
+Finished building: ../Zeigermanipulation.c
+ 
+Building target: Zeigermanipulation.exe
+Invoking: Cygwin C Linker
+gcc  -o "Zeigermanipulation.exe" ./Zeigermanipulation.o   
+Finished building target: Zeigermanipulation.exe
+ 
+
+19:53:17 Build Finished. 0 errors, 0 warnings. (took 493ms)
+

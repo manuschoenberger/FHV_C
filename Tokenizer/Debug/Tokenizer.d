@@ -1,0 +1,1 @@
+Tokenizer.o: ../Tokenizer.c

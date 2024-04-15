@@ -1,0 +1,878 @@
+15:14:08 **** Incremental Build of configuration Debug for project UmgangMitZeichenketten ****
+make all 
+Building file: ../UmgangMitZeichenketten.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"UmgangMitZeichenketten.d" -MT"UmgangMitZeichenketten.o" -o "UmgangMitZeichenketten.o" "../UmgangMitZeichenketten.c"
+../UmgangMitZeichenketten.c: In function 'strLen':
+../UmgangMitZeichenketten.c:16:9: warning: statement with no effect [-Wunused-value]
+   16 |         for(i; str[i] != '\0'; i += 1) {}
+      |         ^~~
+Finished building: ../UmgangMitZeichenketten.c
+ 
+Building target: UmgangMitZeichenketten.exe
+Invoking: Cygwin C Linker
+gcc  -o "UmgangMitZeichenketten.exe" ./UmgangMitZeichenketten.o   
+Finished building target: UmgangMitZeichenketten.exe
+ 
+15:14:20 **** Incremental Build of configuration Debug for project UmgangMitZeichenketten ****
+make all 
+make: Nothing to be done for 'all'.
+15:15:23 **** Incremental Build of configuration Debug for project UmgangMitZeichenketten ****
+make all 
+Building file: ../UmgangMitZeichenketten.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"UmgangMitZeichenketten.d" -MT"UmgangMitZeichenketten.o" -o "UmgangMitZeichenketten.o" "../UmgangMitZeichenketten.c"
+Finished building: ../UmgangMitZeichenketten.c
+ 
+Building target: UmgangMitZeichenketten.exe
+Invoking: Cygwin C Linker
+gcc  -o "UmgangMitZeichenketten.exe" ./UmgangMitZeichenketten.o   
+Finished building target: UmgangMitZeichenketten.exe
+ 
+17:31:09 **** Incremental Build of configuration Debug for project UmgangMitZeichenketten ****
+make all 
+Building file: ../UmgangMitZeichenketten.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"UmgangMitZeichenketten.d" -MT"UmgangMitZeichenketten.o" -o "UmgangMitZeichenketten.o" "../UmgangMitZeichenketten.c"
+../UmgangMitZeichenketten.c: In function 'strCmp':
+../UmgangMitZeichenketten.c:20:13: warning: unused variable 'cmp' [-Wunused-variable]
+   20 |         int cmp = 0;
+      |             ^~~
+Finished building: ../UmgangMitZeichenketten.c
+ 
+Building target: UmgangMitZeichenketten.exe
+Invoking: Cygwin C Linker
+gcc  -o "UmgangMitZeichenketten.exe" ./UmgangMitZeichenketten.o   
+Finished building target: UmgangMitZeichenketten.exe
+ 
+17:31:25 **** Incremental Build of configuration Debug for project UmgangMitZeichenketten ****
+make all 
+Building file: ../UmgangMitZeichenketten.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"UmgangMitZeichenketten.d" -MT"UmgangMitZeichenketten.o" -o "UmgangMitZeichenketten.o" "../UmgangMitZeichenketten.c"
+../UmgangMitZeichenketten.c: In function 'strCmp':
+../UmgangMitZeichenketten.c:20:13: warning: unused variable 'cmp' [-Wunused-variable]
+   20 |         int cmp = 0;
+      |             ^~~
+Finished building: ../UmgangMitZeichenketten.c
+ 
+Building target: UmgangMitZeichenketten.exe
+Invoking: Cygwin C Linker
+gcc  -o "UmgangMitZeichenketten.exe" ./UmgangMitZeichenketten.o   
+Finished building target: UmgangMitZeichenketten.exe
+ 
+17:31:35 **** Incremental Build of configuration Debug for project UmgangMitZeichenketten ****
+make all 
+Building file: ../UmgangMitZeichenketten.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"UmgangMitZeichenketten.d" -MT"UmgangMitZeichenketten.o" -o "UmgangMitZeichenketten.o" "../UmgangMitZeichenketten.c"
+../UmgangMitZeichenketten.c: In function 'strCmp':
+../UmgangMitZeichenketten.c:20:13: warning: unused variable 'cmp' [-Wunused-variable]
+   20 |         int cmp = 0;
+      |             ^~~
+Finished building: ../UmgangMitZeichenketten.c
+ 
+Building target: UmgangMitZeichenketten.exe
+Invoking: Cygwin C Linker
+gcc  -o "UmgangMitZeichenketten.exe" ./UmgangMitZeichenketten.o   
+Finished building target: UmgangMitZeichenketten.exe
+ 
+17:33:03 **** Incremental Build of configuration Debug for project UmgangMitZeichenketten ****
+make all 
+Building file: ../UmgangMitZeichenketten.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"UmgangMitZeichenketten.d" -MT"UmgangMitZeichenketten.o" -o "UmgangMitZeichenketten.o" "../UmgangMitZeichenketten.c"
+Finished building: ../UmgangMitZeichenketten.c
+ 
+Building target: UmgangMitZeichenketten.exe
+Invoking: Cygwin C Linker
+gcc  -o "UmgangMitZeichenketten.exe" ./UmgangMitZeichenketten.o   
+Finished building target: UmgangMitZeichenketten.exe
+ 
+17:33:24 **** Incremental Build of configuration Debug for project UmgangMitZeichenketten ****
+make all 
+Building file: ../UmgangMitZeichenketten.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"UmgangMitZeichenketten.d" -MT"UmgangMitZeichenketten.o" -o "UmgangMitZeichenketten.o" "../UmgangMitZeichenketten.c"
+Finished building: ../UmgangMitZeichenketten.c
+ 
+Building target: UmgangMitZeichenketten.exe
+Invoking: Cygwin C Linker
+gcc  -o "UmgangMitZeichenketten.exe" ./UmgangMitZeichenketten.o   
+Finished building target: UmgangMitZeichenketten.exe
+ 
+17:34:25 **** Incremental Build of configuration Debug for project UmgangMitZeichenketten ****
+make all 
+Building file: ../UmgangMitZeichenketten.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"UmgangMitZeichenketten.d" -MT"UmgangMitZeichenketten.o" -o "UmgangMitZeichenketten.o" "../UmgangMitZeichenketten.c"
+Finished building: ../UmgangMitZeichenketten.c
+ 
+Building target: UmgangMitZeichenketten.exe
+Invoking: Cygwin C Linker
+gcc  -o "UmgangMitZeichenketten.exe" ./UmgangMitZeichenketten.o   
+Finished building target: UmgangMitZeichenketten.exe
+ 
+17:34:41 **** Incremental Build of configuration Debug for project UmgangMitZeichenketten ****
+make all 
+Building file: ../UmgangMitZeichenketten.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"UmgangMitZeichenketten.d" -MT"UmgangMitZeichenketten.o" -o "UmgangMitZeichenketten.o" "../UmgangMitZeichenketten.c"
+Finished building: ../UmgangMitZeichenketten.c
+ 
+Building target: UmgangMitZeichenketten.exe
+Invoking: Cygwin C Linker
+gcc  -o "UmgangMitZeichenketten.exe" ./UmgangMitZeichenketten.o   
+Finished building target: UmgangMitZeichenketten.exe
+ 
+17:35:58 **** Incremental Build of configuration Debug for project UmgangMitZeichenketten ****
+make all 
+Building file: ../UmgangMitZeichenketten.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"UmgangMitZeichenketten.d" -MT"UmgangMitZeichenketten.o" -o "UmgangMitZeichenketten.o" "../UmgangMitZeichenketten.c"
+Finished building: ../UmgangMitZeichenketten.c
+ 
+Building target: UmgangMitZeichenketten.exe
+Invoking: Cygwin C Linker
+gcc  -o "UmgangMitZeichenketten.exe" ./UmgangMitZeichenketten.o   
+Finished building target: UmgangMitZeichenketten.exe
+ 
+17:36:04 **** Incremental Build of configuration Debug for project UmgangMitZeichenketten ****
+make all 
+Building file: ../UmgangMitZeichenketten.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"UmgangMitZeichenketten.d" -MT"UmgangMitZeichenketten.o" -o "UmgangMitZeichenketten.o" "../UmgangMitZeichenketten.c"
+Finished building: ../UmgangMitZeichenketten.c
+ 
+Building target: UmgangMitZeichenketten.exe
+Invoking: Cygwin C Linker
+gcc  -o "UmgangMitZeichenketten.exe" ./UmgangMitZeichenketten.o   
+Finished building target: UmgangMitZeichenketten.exe
+ 
+17:36:15 **** Incremental Build of configuration Debug for project UmgangMitZeichenketten ****
+make all 
+Building file: ../UmgangMitZeichenketten.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"UmgangMitZeichenketten.d" -MT"UmgangMitZeichenketten.o" -o "UmgangMitZeichenketten.o" "../UmgangMitZeichenketten.c"
+Finished building: ../UmgangMitZeichenketten.c
+ 
+Building target: UmgangMitZeichenketten.exe
+Invoking: Cygwin C Linker
+gcc  -o "UmgangMitZeichenketten.exe" ./UmgangMitZeichenketten.o   
+Finished building target: UmgangMitZeichenketten.exe
+ 
+17:36:44 **** Incremental Build of configuration Debug for project UmgangMitZeichenketten ****
+make all 
+Building file: ../UmgangMitZeichenketten.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"UmgangMitZeichenketten.d" -MT"UmgangMitZeichenketten.o" -o "UmgangMitZeichenketten.o" "../UmgangMitZeichenketten.c"
+Finished building: ../UmgangMitZeichenketten.c
+ 
+Building target: UmgangMitZeichenketten.exe
+Invoking: Cygwin C Linker
+gcc  -o "UmgangMitZeichenketten.exe" ./UmgangMitZeichenketten.o   
+Finished building target: UmgangMitZeichenketten.exe
+ 
+17:36:54 **** Incremental Build of configuration Debug for project UmgangMitZeichenketten ****
+make all 
+Building file: ../UmgangMitZeichenketten.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"UmgangMitZeichenketten.d" -MT"UmgangMitZeichenketten.o" -o "UmgangMitZeichenketten.o" "../UmgangMitZeichenketten.c"
+Finished building: ../UmgangMitZeichenketten.c
+ 
+Building target: UmgangMitZeichenketten.exe
+Invoking: Cygwin C Linker
+gcc  -o "UmgangMitZeichenketten.exe" ./UmgangMitZeichenketten.o   
+Finished building target: UmgangMitZeichenketten.exe
+ 
+17:37:16 **** Incremental Build of configuration Debug for project UmgangMitZeichenketten ****
+make all 
+Building file: ../UmgangMitZeichenketten.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"UmgangMitZeichenketten.d" -MT"UmgangMitZeichenketten.o" -o "UmgangMitZeichenketten.o" "../UmgangMitZeichenketten.c"
+Finished building: ../UmgangMitZeichenketten.c
+ 
+Building target: UmgangMitZeichenketten.exe
+Invoking: Cygwin C Linker
+gcc  -o "UmgangMitZeichenketten.exe" ./UmgangMitZeichenketten.o   
+Finished building target: UmgangMitZeichenketten.exe
+ 
+17:48:33 **** Incremental Build of configuration Debug for project UmgangMitZeichenketten ****
+make all 
+Building file: ../UmgangMitZeichenketten.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"UmgangMitZeichenketten.d" -MT"UmgangMitZeichenketten.o" -o "UmgangMitZeichenketten.o" "../UmgangMitZeichenketten.c"
+../UmgangMitZeichenketten.c: In function 'main':
+../UmgangMitZeichenketten.c:55:9: warning: parameter names (without types) in function declaration
+   55 |         void toUpperCase(str);
+      |         ^~~~
+Finished building: ../UmgangMitZeichenketten.c
+ 
+Building target: UmgangMitZeichenketten.exe
+Invoking: Cygwin C Linker
+gcc  -o "UmgangMitZeichenketten.exe" ./UmgangMitZeichenketten.o   
+Finished building target: UmgangMitZeichenketten.exe
+ 
+17:49:14 **** Incremental Build of configuration Debug for project UmgangMitZeichenketten ****
+make all 
+Building file: ../UmgangMitZeichenketten.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"UmgangMitZeichenketten.d" -MT"UmgangMitZeichenketten.o" -o "UmgangMitZeichenketten.o" "../UmgangMitZeichenketten.c"
+../UmgangMitZeichenketten.c: In function 'main':
+../UmgangMitZeichenketten.c:55:9: warning: parameter names (without types) in function declaration
+   55 |         void toUpperCase(str);
+      |         ^~~~
+Finished building: ../UmgangMitZeichenketten.c
+ 
+Building target: UmgangMitZeichenketten.exe
+Invoking: Cygwin C Linker
+gcc  -o "UmgangMitZeichenketten.exe" ./UmgangMitZeichenketten.o   
+Finished building target: UmgangMitZeichenketten.exe
+ 
+17:49:33 **** Incremental Build of configuration Debug for project UmgangMitZeichenketten ****
+make all 
+Building file: ../UmgangMitZeichenketten.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"UmgangMitZeichenketten.d" -MT"UmgangMitZeichenketten.o" -o "UmgangMitZeichenketten.o" "../UmgangMitZeichenketten.c"
+Finished building: ../UmgangMitZeichenketten.c
+ 
+Building target: UmgangMitZeichenketten.exe
+Invoking: Cygwin C Linker
+gcc  -o "UmgangMitZeichenketten.exe" ./UmgangMitZeichenketten.o   
+Finished building target: UmgangMitZeichenketten.exe
+ 
+17:49:44 **** Incremental Build of configuration Debug for project UmgangMitZeichenketten ****
+make all 
+Building file: ../UmgangMitZeichenketten.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"UmgangMitZeichenketten.d" -MT"UmgangMitZeichenketten.o" -o "UmgangMitZeichenketten.o" "../UmgangMitZeichenketten.c"
+Finished building: ../UmgangMitZeichenketten.c
+ 
+Building target: UmgangMitZeichenketten.exe
+Invoking: Cygwin C Linker
+gcc  -o "UmgangMitZeichenketten.exe" ./UmgangMitZeichenketten.o   
+Finished building target: UmgangMitZeichenketten.exe
+ 
+17:55:51 **** Incremental Build of configuration Debug for project UmgangMitZeichenketten ****
+make all 
+Building file: ../UmgangMitZeichenketten.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"UmgangMitZeichenketten.d" -MT"UmgangMitZeichenketten.o" -o "UmgangMitZeichenketten.o" "../UmgangMitZeichenketten.c"
+Finished building: ../UmgangMitZeichenketten.c
+ 
+Building target: UmgangMitZeichenketten.exe
+Invoking: Cygwin C Linker
+gcc  -o "UmgangMitZeichenketten.exe" ./UmgangMitZeichenketten.o   
+Finished building target: UmgangMitZeichenketten.exe
+ 
+17:56:11 **** Incremental Build of configuration Debug for project UmgangMitZeichenketten ****
+make all 
+Building file: ../UmgangMitZeichenketten.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"UmgangMitZeichenketten.d" -MT"UmgangMitZeichenketten.o" -o "UmgangMitZeichenketten.o" "../UmgangMitZeichenketten.c"
+Finished building: ../UmgangMitZeichenketten.c
+ 
+Building target: UmgangMitZeichenketten.exe
+Invoking: Cygwin C Linker
+gcc  -o "UmgangMitZeichenketten.exe" ./UmgangMitZeichenketten.o   
+Finished building target: UmgangMitZeichenketten.exe
+ 
+17:56:20 **** Incremental Build of configuration Debug for project UmgangMitZeichenketten ****
+make all 
+Building file: ../UmgangMitZeichenketten.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"UmgangMitZeichenketten.d" -MT"UmgangMitZeichenketten.o" -o "UmgangMitZeichenketten.o" "../UmgangMitZeichenketten.c"
+Finished building: ../UmgangMitZeichenketten.c
+ 
+Building target: UmgangMitZeichenketten.exe
+Invoking: Cygwin C Linker
+gcc  -o "UmgangMitZeichenketten.exe" ./UmgangMitZeichenketten.o   
+Finished building target: UmgangMitZeichenketten.exe
+ 
+11:30:04 **** Incremental Build of configuration Debug for project UmgangMitZeichenketten ****
+make all 
+Building file: ../UmgangMitZeichenketten.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"UmgangMitZeichenketten.d" -MT"UmgangMitZeichenketten.o" -o "UmgangMitZeichenketten.o" "../UmgangMitZeichenketten.c"
+../UmgangMitZeichenketten.c: In function 'subStr':
+../UmgangMitZeichenketten.c:61:55: warning: value computed is not used [-Wunused-value]
+   61 |         for(; startOffs != endOffs; ((startOffs += 1) && (i += 1))) {
+      |                                                       ^~
+../UmgangMitZeichenketten.c: In function 'main':
+../UmgangMitZeichenketten.c:88:14: error: redefinition of 'srcStr'
+   88 |         char srcStr[] = "Livin' la vida loca";
+      |              ^~~~~~
+../UmgangMitZeichenketten.c:83:14: note: previous definition of 'srcStr' with type 'char[8]'
+   83 |         char srcStr[] = "God Dag";
+      |              ^~~~~~
+../UmgangMitZeichenketten.c:89:14: error: redeclaration of 'destStr' with no linkage
+   89 |         char destStr[512];
+      |              ^~~~~~~
+../UmgangMitZeichenketten.c:84:14: note: previous declaration of 'destStr' with type 'char[512]'
+   84 |         char destStr[512];
+      |              ^~~~~~~
+../UmgangMitZeichenketten.c:92:13: warning: unused variable 'sub' [-Wunused-variable]
+   92 |         int sub = subStr(srcStr,destStr,startOffs,endOffs);
+      |             ^~~
+../UmgangMitZeichenketten.c: In function 'subStr':
+../UmgangMitZeichenketten.c:66:1: warning: control reaches end of non-void function [-Wreturn-type]
+   66 | }
+      | ^
+make: *** [subdir.mk:20: UmgangMitZeichenketten.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+11:30:40 **** Incremental Build of configuration Debug for project UmgangMitZeichenketten ****
+make all 
+Building file: ../UmgangMitZeichenketten.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"UmgangMitZeichenketten.d" -MT"UmgangMitZeichenketten.o" -o "UmgangMitZeichenketten.o" "../UmgangMitZeichenketten.c"
+../UmgangMitZeichenketten.c: In function 'subStr':
+../UmgangMitZeichenketten.c:61:55: warning: value computed is not used [-Wunused-value]
+   61 |         for(; startOffs != endOffs; ((startOffs += 1) && (i += 1))) {
+      |                                                       ^~
+../UmgangMitZeichenketten.c: In function 'main':
+../UmgangMitZeichenketten.c:92:13: warning: unused variable 'sub' [-Wunused-variable]
+   92 |         int sub = subStr(srcStr1,destStr1,startOffs,endOffs);
+      |             ^~~
+../UmgangMitZeichenketten.c: In function 'subStr':
+../UmgangMitZeichenketten.c:66:1: warning: control reaches end of non-void function [-Wreturn-type]
+   66 | }
+      | ^
+Finished building: ../UmgangMitZeichenketten.c
+ 
+Building target: UmgangMitZeichenketten.exe
+Invoking: Cygwin C Linker
+gcc  -o "UmgangMitZeichenketten.exe" ./UmgangMitZeichenketten.o   
+Finished building target: UmgangMitZeichenketten.exe
+ 
+11:30:52 **** Incremental Build of configuration Debug for project UmgangMitZeichenketten ****
+make all 
+Building file: ../UmgangMitZeichenketten.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"UmgangMitZeichenketten.d" -MT"UmgangMitZeichenketten.o" -o "UmgangMitZeichenketten.o" "../UmgangMitZeichenketten.c"
+../UmgangMitZeichenketten.c: In function 'subStr':
+../UmgangMitZeichenketten.c:61:55: warning: value computed is not used [-Wunused-value]
+   61 |         for(; startOffs != endOffs; ((startOffs += 1) && (i += 1))) {
+      |                                                       ^~
+../UmgangMitZeichenketten.c: In function 'main':
+../UmgangMitZeichenketten.c:92:13: warning: unused variable 'sub' [-Wunused-variable]
+   92 |         int sub = subStr(srcStr1,destStr1,startOffs,endOffs);
+      |             ^~~
+../UmgangMitZeichenketten.c: In function 'subStr':
+../UmgangMitZeichenketten.c:66:1: warning: control reaches end of non-void function [-Wreturn-type]
+   66 | }
+      | ^
+Finished building: ../UmgangMitZeichenketten.c
+ 
+Building target: UmgangMitZeichenketten.exe
+Invoking: Cygwin C Linker
+gcc  -o "UmgangMitZeichenketten.exe" ./UmgangMitZeichenketten.o   
+Finished building target: UmgangMitZeichenketten.exe
+ 
+11:31:14 **** Incremental Build of configuration Debug for project UmgangMitZeichenketten ****
+make all 
+Building file: ../UmgangMitZeichenketten.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"UmgangMitZeichenketten.d" -MT"UmgangMitZeichenketten.o" -o "UmgangMitZeichenketten.o" "../UmgangMitZeichenketten.c"
+../UmgangMitZeichenketten.c: In function 'main':
+../UmgangMitZeichenketten.c:93:13: warning: unused variable 'sub' [-Wunused-variable]
+   93 |         int sub = subStr(srcStr1,destStr1,startOffs,endOffs);
+      |             ^~~
+../UmgangMitZeichenketten.c: In function 'subStr':
+../UmgangMitZeichenketten.c:67:1: warning: control reaches end of non-void function [-Wreturn-type]
+   67 | }
+      | ^
+Finished building: ../UmgangMitZeichenketten.c
+ 
+Building target: UmgangMitZeichenketten.exe
+Invoking: Cygwin C Linker
+gcc  -o "UmgangMitZeichenketten.exe" ./UmgangMitZeichenketten.o   
+Finished building target: UmgangMitZeichenketten.exe
+ 
+11:33:04 **** Incremental Build of configuration Debug for project UmgangMitZeichenketten ****
+make all 
+Building file: ../UmgangMitZeichenketten.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"UmgangMitZeichenketten.d" -MT"UmgangMitZeichenketten.o" -o "UmgangMitZeichenketten.o" "../UmgangMitZeichenketten.c"
+../UmgangMitZeichenketten.c: In function 'subStr':
+../UmgangMitZeichenketten.c:67:1: warning: control reaches end of non-void function [-Wreturn-type]
+   67 | }
+      | ^
+Finished building: ../UmgangMitZeichenketten.c
+ 
+Building target: UmgangMitZeichenketten.exe
+Invoking: Cygwin C Linker
+gcc  -o "UmgangMitZeichenketten.exe" ./UmgangMitZeichenketten.o   
+Finished building target: UmgangMitZeichenketten.exe
+ 
+11:34:00 **** Incremental Build of configuration Debug for project UmgangMitZeichenketten ****
+make all 
+Building file: ../UmgangMitZeichenketten.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"UmgangMitZeichenketten.d" -MT"UmgangMitZeichenketten.o" -o "UmgangMitZeichenketten.o" "../UmgangMitZeichenketten.c"
+Finished building: ../UmgangMitZeichenketten.c
+ 
+Building target: UmgangMitZeichenketten.exe
+Invoking: Cygwin C Linker
+gcc  -o "UmgangMitZeichenketten.exe" ./UmgangMitZeichenketten.o   
+Finished building target: UmgangMitZeichenketten.exe
+ 
+11:34:11 **** Incremental Build of configuration Debug for project UmgangMitZeichenketten ****
+make all 
+Building file: ../UmgangMitZeichenketten.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"UmgangMitZeichenketten.d" -MT"UmgangMitZeichenketten.o" -o "UmgangMitZeichenketten.o" "../UmgangMitZeichenketten.c"
+Finished building: ../UmgangMitZeichenketten.c
+ 
+Building target: UmgangMitZeichenketten.exe
+Invoking: Cygwin C Linker
+gcc  -o "UmgangMitZeichenketten.exe" ./UmgangMitZeichenketten.o   
+Finished building target: UmgangMitZeichenketten.exe
+ 
+11:34:22 **** Incremental Build of configuration Debug for project UmgangMitZeichenketten ****
+make all 
+Building file: ../UmgangMitZeichenketten.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"UmgangMitZeichenketten.d" -MT"UmgangMitZeichenketten.o" -o "UmgangMitZeichenketten.o" "../UmgangMitZeichenketten.c"
+Finished building: ../UmgangMitZeichenketten.c
+ 
+Building target: UmgangMitZeichenketten.exe
+Invoking: Cygwin C Linker
+gcc  -o "UmgangMitZeichenketten.exe" ./UmgangMitZeichenketten.o   
+Finished building target: UmgangMitZeichenketten.exe
+ 
+11:34:48 **** Incremental Build of configuration Debug for project UmgangMitZeichenketten ****
+make all 
+Building file: ../UmgangMitZeichenketten.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"UmgangMitZeichenketten.d" -MT"UmgangMitZeichenketten.o" -o "UmgangMitZeichenketten.o" "../UmgangMitZeichenketten.c"
+Finished building: ../UmgangMitZeichenketten.c
+ 
+Building target: UmgangMitZeichenketten.exe
+Invoking: Cygwin C Linker
+gcc  -o "UmgangMitZeichenketten.exe" ./UmgangMitZeichenketten.o   
+Finished building target: UmgangMitZeichenketten.exe
+ 
+11:35:30 **** Incremental Build of configuration Debug for project UmgangMitZeichenketten ****
+make all 
+Building file: ../UmgangMitZeichenketten.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"UmgangMitZeichenketten.d" -MT"UmgangMitZeichenketten.o" -o "UmgangMitZeichenketten.o" "../UmgangMitZeichenketten.c"
+Finished building: ../UmgangMitZeichenketten.c
+ 
+Building target: UmgangMitZeichenketten.exe
+Invoking: Cygwin C Linker
+gcc  -o "UmgangMitZeichenketten.exe" ./UmgangMitZeichenketten.o   
+Finished building target: UmgangMitZeichenketten.exe
+ 
+11:36:19 **** Incremental Build of configuration Debug for project UmgangMitZeichenketten ****
+make all 
+Building file: ../UmgangMitZeichenketten.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"UmgangMitZeichenketten.d" -MT"UmgangMitZeichenketten.o" -o "UmgangMitZeichenketten.o" "../UmgangMitZeichenketten.c"
+Finished building: ../UmgangMitZeichenketten.c
+ 
+Building target: UmgangMitZeichenketten.exe
+Invoking: Cygwin C Linker
+gcc  -o "UmgangMitZeichenketten.exe" ./UmgangMitZeichenketten.o   
+Finished building target: UmgangMitZeichenketten.exe
+ 
+11:37:33 **** Incremental Build of configuration Debug for project UmgangMitZeichenketten ****
+make all 
+Building file: ../UmgangMitZeichenketten.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"UmgangMitZeichenketten.d" -MT"UmgangMitZeichenketten.o" -o "UmgangMitZeichenketten.o" "../UmgangMitZeichenketten.c"
+Finished building: ../UmgangMitZeichenketten.c
+ 
+Building target: UmgangMitZeichenketten.exe
+Invoking: Cygwin C Linker
+gcc  -o "UmgangMitZeichenketten.exe" ./UmgangMitZeichenketten.o   
+Finished building target: UmgangMitZeichenketten.exe
+ 
+11:37:49 **** Incremental Build of configuration Debug for project UmgangMitZeichenketten ****
+make all 
+Building file: ../UmgangMitZeichenketten.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"UmgangMitZeichenketten.d" -MT"UmgangMitZeichenketten.o" -o "UmgangMitZeichenketten.o" "../UmgangMitZeichenketten.c"
+Finished building: ../UmgangMitZeichenketten.c
+ 
+Building target: UmgangMitZeichenketten.exe
+Invoking: Cygwin C Linker
+gcc  -o "UmgangMitZeichenketten.exe" ./UmgangMitZeichenketten.o   
+Finished building target: UmgangMitZeichenketten.exe
+ 
+11:41:27 **** Incremental Build of configuration Debug for project UmgangMitZeichenketten ****
+make all 
+Building file: ../UmgangMitZeichenketten.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"UmgangMitZeichenketten.d" -MT"UmgangMitZeichenketten.o" -o "UmgangMitZeichenketten.o" "../UmgangMitZeichenketten.c"
+Finished building: ../UmgangMitZeichenketten.c
+ 
+Building target: UmgangMitZeichenketten.exe
+Invoking: Cygwin C Linker
+gcc  -o "UmgangMitZeichenketten.exe" ./UmgangMitZeichenketten.o   
+Finished building target: UmgangMitZeichenketten.exe
+ 
+11:42:00 **** Incremental Build of configuration Debug for project UmgangMitZeichenketten ****
+make all 
+Building file: ../UmgangMitZeichenketten.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"UmgangMitZeichenketten.d" -MT"UmgangMitZeichenketten.o" -o "UmgangMitZeichenketten.o" "../UmgangMitZeichenketten.c"
+Finished building: ../UmgangMitZeichenketten.c
+ 
+Building target: UmgangMitZeichenketten.exe
+Invoking: Cygwin C Linker
+gcc  -o "UmgangMitZeichenketten.exe" ./UmgangMitZeichenketten.o   
+Finished building target: UmgangMitZeichenketten.exe
+ 
+11:42:55 **** Incremental Build of configuration Debug for project UmgangMitZeichenketten ****
+make all 
+Building file: ../UmgangMitZeichenketten.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"UmgangMitZeichenketten.d" -MT"UmgangMitZeichenketten.o" -o "UmgangMitZeichenketten.o" "../UmgangMitZeichenketten.c"
+Finished building: ../UmgangMitZeichenketten.c
+ 
+Building target: UmgangMitZeichenketten.exe
+Invoking: Cygwin C Linker
+gcc  -o "UmgangMitZeichenketten.exe" ./UmgangMitZeichenketten.o   
+Finished building target: UmgangMitZeichenketten.exe
+ 
+11:43:00 **** Incremental Build of configuration Debug for project UmgangMitZeichenketten ****
+make all 
+Building file: ../UmgangMitZeichenketten.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"UmgangMitZeichenketten.d" -MT"UmgangMitZeichenketten.o" -o "UmgangMitZeichenketten.o" "../UmgangMitZeichenketten.c"
+Finished building: ../UmgangMitZeichenketten.c
+ 
+Building target: UmgangMitZeichenketten.exe
+Invoking: Cygwin C Linker
+gcc  -o "UmgangMitZeichenketten.exe" ./UmgangMitZeichenketten.o   
+Finished building target: UmgangMitZeichenketten.exe
+ 
+11:43:38 **** Incremental Build of configuration Debug for project UmgangMitZeichenketten ****
+make all 
+Building file: ../UmgangMitZeichenketten.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"UmgangMitZeichenketten.d" -MT"UmgangMitZeichenketten.o" -o "UmgangMitZeichenketten.o" "../UmgangMitZeichenketten.c"
+Finished building: ../UmgangMitZeichenketten.c
+ 
+Building target: UmgangMitZeichenketten.exe
+Invoking: Cygwin C Linker
+gcc  -o "UmgangMitZeichenketten.exe" ./UmgangMitZeichenketten.o   
+Finished building target: UmgangMitZeichenketten.exe
+ 
+11:44:11 **** Incremental Build of configuration Debug for project UmgangMitZeichenketten ****
+make all 
+Building file: ../UmgangMitZeichenketten.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"UmgangMitZeichenketten.d" -MT"UmgangMitZeichenketten.o" -o "UmgangMitZeichenketten.o" "../UmgangMitZeichenketten.c"
+Finished building: ../UmgangMitZeichenketten.c
+ 
+Building target: UmgangMitZeichenketten.exe
+Invoking: Cygwin C Linker
+gcc  -o "UmgangMitZeichenketten.exe" ./UmgangMitZeichenketten.o   
+Finished building target: UmgangMitZeichenketten.exe
+ 
+11:44:16 **** Incremental Build of configuration Debug for project UmgangMitZeichenketten ****
+make all 
+Building file: ../UmgangMitZeichenketten.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"UmgangMitZeichenketten.d" -MT"UmgangMitZeichenketten.o" -o "UmgangMitZeichenketten.o" "../UmgangMitZeichenketten.c"
+Finished building: ../UmgangMitZeichenketten.c
+ 
+Building target: UmgangMitZeichenketten.exe
+Invoking: Cygwin C Linker
+gcc  -o "UmgangMitZeichenketten.exe" ./UmgangMitZeichenketten.o   
+Finished building target: UmgangMitZeichenketten.exe
+ 
+11:45:08 **** Incremental Build of configuration Debug for project UmgangMitZeichenketten ****
+make all 
+Building file: ../UmgangMitZeichenketten.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"UmgangMitZeichenketten.d" -MT"UmgangMitZeichenketten.o" -o "UmgangMitZeichenketten.o" "../UmgangMitZeichenketten.c"
+Finished building: ../UmgangMitZeichenketten.c
+ 
+Building target: UmgangMitZeichenketten.exe
+Invoking: Cygwin C Linker
+gcc  -o "UmgangMitZeichenketten.exe" ./UmgangMitZeichenketten.o   
+Finished building target: UmgangMitZeichenketten.exe
+ 
+11:45:35 **** Incremental Build of configuration Debug for project UmgangMitZeichenketten ****
+make all 
+Building file: ../UmgangMitZeichenketten.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"UmgangMitZeichenketten.d" -MT"UmgangMitZeichenketten.o" -o "UmgangMitZeichenketten.o" "../UmgangMitZeichenketten.c"
+Finished building: ../UmgangMitZeichenketten.c
+ 
+Building target: UmgangMitZeichenketten.exe
+Invoking: Cygwin C Linker
+gcc  -o "UmgangMitZeichenketten.exe" ./UmgangMitZeichenketten.o   
+Finished building target: UmgangMitZeichenketten.exe
+ 
+11:45:42 **** Incremental Build of configuration Debug for project UmgangMitZeichenketten ****
+make all 
+Building file: ../UmgangMitZeichenketten.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"UmgangMitZeichenketten.d" -MT"UmgangMitZeichenketten.o" -o "UmgangMitZeichenketten.o" "../UmgangMitZeichenketten.c"
+Finished building: ../UmgangMitZeichenketten.c
+ 
+Building target: UmgangMitZeichenketten.exe
+Invoking: Cygwin C Linker
+gcc  -o "UmgangMitZeichenketten.exe" ./UmgangMitZeichenketten.o   
+Finished building target: UmgangMitZeichenketten.exe
+ 
+11:46:36 **** Incremental Build of configuration Debug for project UmgangMitZeichenketten ****
+make all 
+Building file: ../UmgangMitZeichenketten.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"UmgangMitZeichenketten.d" -MT"UmgangMitZeichenketten.o" -o "UmgangMitZeichenketten.o" "../UmgangMitZeichenketten.c"
+Finished building: ../UmgangMitZeichenketten.c
+ 
+Building target: UmgangMitZeichenketten.exe
+Invoking: Cygwin C Linker
+gcc  -o "UmgangMitZeichenketten.exe" ./UmgangMitZeichenketten.o   
+Finished building target: UmgangMitZeichenketten.exe
+ 
+11:47:38 **** Incremental Build of configuration Debug for project UmgangMitZeichenketten ****
+make all 
+Building file: ../UmgangMitZeichenketten.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"UmgangMitZeichenketten.d" -MT"UmgangMitZeichenketten.o" -o "UmgangMitZeichenketten.o" "../UmgangMitZeichenketten.c"
+Finished building: ../UmgangMitZeichenketten.c
+ 
+Building target: UmgangMitZeichenketten.exe
+Invoking: Cygwin C Linker
+gcc  -o "UmgangMitZeichenketten.exe" ./UmgangMitZeichenketten.o   
+Finished building target: UmgangMitZeichenketten.exe
+ 
+12:02:17 **** Incremental Build of configuration Debug for project UmgangMitZeichenketten ****
+make all 
+Building file: ../UmgangMitZeichenketten.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"UmgangMitZeichenketten.d" -MT"UmgangMitZeichenketten.o" -o "UmgangMitZeichenketten.o" "../UmgangMitZeichenketten.c"
+Finished building: ../UmgangMitZeichenketten.c
+ 
+Building target: UmgangMitZeichenketten.exe
+Invoking: Cygwin C Linker
+gcc  -o "UmgangMitZeichenketten.exe" ./UmgangMitZeichenketten.o   
+Finished building target: UmgangMitZeichenketten.exe
+ 
+12:03:18 **** Incremental Build of configuration Debug for project UmgangMitZeichenketten ****
+make all 
+Building file: ../UmgangMitZeichenketten.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"UmgangMitZeichenketten.d" -MT"UmgangMitZeichenketten.o" -o "UmgangMitZeichenketten.o" "../UmgangMitZeichenketten.c"
+Finished building: ../UmgangMitZeichenketten.c
+ 
+Building target: UmgangMitZeichenketten.exe
+Invoking: Cygwin C Linker
+gcc  -o "UmgangMitZeichenketten.exe" ./UmgangMitZeichenketten.o   
+Finished building target: UmgangMitZeichenketten.exe
+ 
+17:33:44 **** Incremental Build of configuration Debug for project UmgangMitZeichenketten ****
+make all 
+Building file: ../UmgangMitZeichenketten.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"UmgangMitZeichenketten.d" -MT"UmgangMitZeichenketten.o" -o "UmgangMitZeichenketten.o" "../UmgangMitZeichenketten.c"
+Finished building: ../UmgangMitZeichenketten.c
+ 
+Building target: UmgangMitZeichenketten.exe
+Invoking: Cygwin C Linker
+gcc  -o "UmgangMitZeichenketten.exe" ./UmgangMitZeichenketten.o   
+Finished building target: UmgangMitZeichenketten.exe
+ 
+17:35:50 **** Incremental Build of configuration Debug for project UmgangMitZeichenketten ****
+make all 
+Building file: ../UmgangMitZeichenketten.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"UmgangMitZeichenketten.d" -MT"UmgangMitZeichenketten.o" -o "UmgangMitZeichenketten.o" "../UmgangMitZeichenketten.c"
+../UmgangMitZeichenketten.c: In function 'strCmp':
+../UmgangMitZeichenketten.c:70:5: warning: 'main' is normally a non-static function [-Wmain]
+   70 | int main (int argc, char * argv[]) {
+      |     ^~~~
+../UmgangMitZeichenketten.c:112:1: error: expected declaration or statement at end of input
+  112 | }
+      | ^
+../UmgangMitZeichenketten.c:114: warning: control reaches end of non-void function [-Wreturn-type]
+At top level:
+../UmgangMitZeichenketten.c:70:5: warning: 'main' defined but not used [-Wunused-function]
+   70 | int main (int argc, char * argv[]) {
+      |     ^~~~
+make: *** [subdir.mk:20: UmgangMitZeichenketten.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+17:36:26 **** Incremental Build of configuration Debug for project UmgangMitZeichenketten ****
+make all 
+Building file: ../UmgangMitZeichenketten.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"UmgangMitZeichenketten.d" -MT"UmgangMitZeichenketten.o" -o "UmgangMitZeichenketten.o" "../UmgangMitZeichenketten.c"
+../UmgangMitZeichenketten.c: In function 'strCmp':
+../UmgangMitZeichenketten.c:70:5: warning: 'main' is normally a non-static function [-Wmain]
+   70 | int main (int argc, char * argv[]) {
+      |     ^~~~
+../UmgangMitZeichenketten.c:112:1: error: expected declaration or statement at end of input
+  112 | }
+      | ^
+../UmgangMitZeichenketten.c:114: warning: control reaches end of non-void function [-Wreturn-type]
+At top level:
+../UmgangMitZeichenketten.c:70:5: warning: 'main' defined but not used [-Wunused-function]
+   70 | int main (int argc, char * argv[]) {
+      |     ^~~~
+make: *** [subdir.mk:20: UmgangMitZeichenketten.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+17:40:40 **** Incremental Build of configuration Debug for project UmgangMitZeichenketten ****
+make all 
+Building file: ../UmgangMitZeichenketten.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"UmgangMitZeichenketten.d" -MT"UmgangMitZeichenketten.o" -o "UmgangMitZeichenketten.o" "../UmgangMitZeichenketten.c"
+Finished building: ../UmgangMitZeichenketten.c
+ 
+Building target: UmgangMitZeichenketten.exe
+Invoking: Cygwin C Linker
+gcc  -o "UmgangMitZeichenketten.exe" ./UmgangMitZeichenketten.o   
+Finished building target: UmgangMitZeichenketten.exe
+ 
+17:40:52 **** Incremental Build of configuration Debug for project UmgangMitZeichenketten ****
+make all 
+Building file: ../UmgangMitZeichenketten.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"UmgangMitZeichenketten.d" -MT"UmgangMitZeichenketten.o" -o "UmgangMitZeichenketten.o" "../UmgangMitZeichenketten.c"
+Finished building: ../UmgangMitZeichenketten.c
+ 
+Building target: UmgangMitZeichenketten.exe
+Invoking: Cygwin C Linker
+gcc  -o "UmgangMitZeichenketten.exe" ./UmgangMitZeichenketten.o   
+Finished building target: UmgangMitZeichenketten.exe
+ 
+17:41:01 **** Incremental Build of configuration Debug for project UmgangMitZeichenketten ****
+make all 
+Building file: ../UmgangMitZeichenketten.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"UmgangMitZeichenketten.d" -MT"UmgangMitZeichenketten.o" -o "UmgangMitZeichenketten.o" "../UmgangMitZeichenketten.c"
+Finished building: ../UmgangMitZeichenketten.c
+ 
+Building target: UmgangMitZeichenketten.exe
+Invoking: Cygwin C Linker
+gcc  -o "UmgangMitZeichenketten.exe" ./UmgangMitZeichenketten.o   
+Finished building target: UmgangMitZeichenketten.exe
+ 
+17:41:21 **** Incremental Build of configuration Debug for project UmgangMitZeichenketten ****
+make all 
+Building file: ../UmgangMitZeichenketten.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"UmgangMitZeichenketten.d" -MT"UmgangMitZeichenketten.o" -o "UmgangMitZeichenketten.o" "../UmgangMitZeichenketten.c"
+Finished building: ../UmgangMitZeichenketten.c
+ 
+Building target: UmgangMitZeichenketten.exe
+Invoking: Cygwin C Linker
+gcc  -o "UmgangMitZeichenketten.exe" ./UmgangMitZeichenketten.o   
+Finished building target: UmgangMitZeichenketten.exe
+ 
+10:38:21 **** Build of configuration Debug for project Arbeiten_mit_Strings ****
+make all 
+make: Nothing to be done for 'all'.
+10:40:15 **** Build of configuration Debug for project MinMaxMittel ****
+make all 
+make: Nothing to be done for 'all'.
+10:40:26 **** Incremental Build of configuration Debug for project MinMaxMittel ****
+make all 
+Building file: ../MinMaxMittel.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"MinMaxMittel.d" -MT"MinMaxMittel.o" -o "MinMaxMittel.o" "../MinMaxMittel.c"
+Finished building: ../MinMaxMittel.c
+ 
+Building target: MinMaxMittel.exe
+Invoking: Cygwin C Linker
+gcc  -o "MinMaxMittel.exe" ./MinMaxMittel.o   
+Finished building target: MinMaxMittel.exe
+ 
+10:40:35 **** Incremental Build of configuration Debug for project MinMaxMittel ****
+make all 
+Building file: ../MinMaxMittel.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"MinMaxMittel.d" -MT"MinMaxMittel.o" -o "MinMaxMittel.o" "../MinMaxMittel.c"
+../MinMaxMittel.c: In function 'minMaxMittel':
+../MinMaxMittel.c:18:15: warning: assignment to 'int' from 'int *' makes integer from pointer without a cast [-Wint-conversion]
+   18 |         *pMin = array;
+      |               ^
+../MinMaxMittel.c:19:15: warning: assignment to 'int' from 'int *' makes integer from pointer without a cast [-Wint-conversion]
+   19 |         *pMax = array;
+      |               ^
+Finished building: ../MinMaxMittel.c
+ 
+Building target: MinMaxMittel.exe
+Invoking: Cygwin C Linker
+gcc  -o "MinMaxMittel.exe" ./MinMaxMittel.o   
+Finished building target: MinMaxMittel.exe
+ 
+10:41:04 **** Incremental Build of configuration Debug for project MinMaxMittel ****
+make all 
+Building file: ../MinMaxMittel.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"MinMaxMittel.d" -MT"MinMaxMittel.o" -o "MinMaxMittel.o" "../MinMaxMittel.c"
+Finished building: ../MinMaxMittel.c
+ 
+Building target: MinMaxMittel.exe
+Invoking: Cygwin C Linker
+gcc  -o "MinMaxMittel.exe" ./MinMaxMittel.o   
+Finished building target: MinMaxMittel.exe
+ 
+10:41:30 **** Incremental Build of configuration Debug for project MinMaxMittel ****
+make all 
+Building file: ../MinMaxMittel.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"MinMaxMittel.d" -MT"MinMaxMittel.o" -o "MinMaxMittel.o" "../MinMaxMittel.c"
+../MinMaxMittel.c: In function 'minMaxMittel':
+../MinMaxMittel.c:18:15: warning: assignment to 'int' from 'int *' makes integer from pointer without a cast [-Wint-conversion]
+   18 |         *pMin = &array[0];
+      |               ^
+../MinMaxMittel.c:19:15: warning: assignment to 'int' from 'int *' makes integer from pointer without a cast [-Wint-conversion]
+   19 |         *pMax = &array[0];
+      |               ^
+Finished building: ../MinMaxMittel.c
+ 
+Building target: MinMaxMittel.exe
+Invoking: Cygwin C Linker
+gcc  -o "MinMaxMittel.exe" ./MinMaxMittel.o   
+Finished building target: MinMaxMittel.exe
+ 
+10:41:37 **** Incremental Build of configuration Debug for project MinMaxMittel ****
+make all 
+Building file: ../MinMaxMittel.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"MinMaxMittel.d" -MT"MinMaxMittel.o" -o "MinMaxMittel.o" "../MinMaxMittel.c"
+Finished building: ../MinMaxMittel.c
+ 
+Building target: MinMaxMittel.exe
+Invoking: Cygwin C Linker
+gcc  -o "MinMaxMittel.exe" ./MinMaxMittel.o   
+Finished building target: MinMaxMittel.exe
+ 
+11:08:03 **** Build of configuration Debug for project UmgangMitZeichenketten ****
+make all 
+make: Nothing to be done for 'all'.
+11:08:24 **** Incremental Build of configuration Debug for project UmgangMitZeichenketten ****
+make all 
+Building file: ../UmgangMitZeichenketten.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"UmgangMitZeichenketten.d" -MT"UmgangMitZeichenketten.o" -o "UmgangMitZeichenketten.o" "../UmgangMitZeichenketten.c"
+Finished building: ../UmgangMitZeichenketten.c
+ 
+Building target: UmgangMitZeichenketten.exe
+Invoking: Cygwin C Linker
+gcc  -o "UmgangMitZeichenketten.exe" ./UmgangMitZeichenketten.o   
+Finished building target: UmgangMitZeichenketten.exe
+ 
+11:08:50 **** Incremental Build of configuration Debug for project UmgangMitZeichenketten ****
+make all 
+make: Nothing to be done for 'all'.
+11:09:28 **** Incremental Build of configuration Debug for project UmgangMitZeichenketten ****
+make all 
+Building file: ../UmgangMitZeichenketten.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"UmgangMitZeichenketten.d" -MT"UmgangMitZeichenketten.o" -o "UmgangMitZeichenketten.o" "../UmgangMitZeichenketten.c"
+Finished building: ../UmgangMitZeichenketten.c
+ 
+Building target: UmgangMitZeichenketten.exe
+Invoking: Cygwin C Linker
+gcc  -o "UmgangMitZeichenketten.exe" ./UmgangMitZeichenketten.o   
+Finished building target: UmgangMitZeichenketten.exe
+ 

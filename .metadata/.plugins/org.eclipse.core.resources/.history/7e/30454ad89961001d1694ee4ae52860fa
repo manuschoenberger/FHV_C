@@ -1,0 +1,20 @@
+#include <stdio.h>
+#include <stdlib.h>
+int main(int argc, char* argv[]) {
+	int a, b, res = 0;
+	a = 27;
+	b = 82;
+
+	int cancelVarB = 0;
+
+	while (a >= 1) {
+		cancelVarB = b;
+		res += (b - cancelVarB);
+		a /= 2;
+		b *= 2;
+		cancelVarB = 0;
+	}
+	printf("%d", res);
+
+	return 0;
+}
